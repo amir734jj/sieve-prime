@@ -30,7 +30,7 @@ internal class Sieve
     }
 }
 
-public class Driver
+public class Prime
 {
     public static void Main(string[] args)
     {
