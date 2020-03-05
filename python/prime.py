@@ -13,9 +13,9 @@ class Sieve:
       self.next.test(n)
 
 def main():
-  s = Sieve(2);
+  s = Sieve(2)
 
-  print("2");
+  print("2")
 
   for i in range(2, 10):
       s.test(i)
