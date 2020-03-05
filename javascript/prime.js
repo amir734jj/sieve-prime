@@ -16,8 +16,6 @@ class Sieve {
   }
 }
 
-
-
 function main() {
   var s = new Sieve(2);
   var i = 2;
