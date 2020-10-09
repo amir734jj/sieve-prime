@@ -19,7 +19,6 @@ internal class Sieve
         }
         else if (_next == null)
         {
-
             Console.WriteLine(n);
             _next = new Sieve(n);
         }
